@@ -58,7 +58,6 @@ If you find this work useful feel free to cite our PhD thesis:
     @phdthesis{cordone_performance_2022,
 	    type = {These de doctorat},
 	    title = {Performance of spiking neural networks on event data for embedded automotive applications},
-	    copyright = {Licence Etalab},
 	    url = {https://www.theses.fr/s313551},
 	    urldate = {2023-01-04},
 	    school = {Université Côte d'Azur},
